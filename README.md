@@ -14,8 +14,8 @@ These [VS Code Extensions](https://code.visualstudio.com/docs/editor/extension-g
 
 ## Features
 
-- Debugging with breakpoints
-- Code execution via tasks
+- [Debugging](./.vscode/launch.json) with breakpoints
+- Code execution via [tasks](./.vscode/tasks.json)
 - Code formatting via [rustfmt](https://github.com/rust-lang/rustfmt) with custom [configuration](./rustfmt.toml)
 - Editor configuration via [.editorconfig](./.editorconfig)
 - See the [remaining features](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) of the Rust extension
