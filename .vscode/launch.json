@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "args": [],
+      "cwd": "${workspaceRoot}",
+      "name": "Debug",
+      "preLaunchTask": "Rust: cargo build",
+      "program": "${workspaceRoot}/target/debug/rust-vscode-starter",
+      "request": "launch",
+      "type": "lldb"
+    }
+  ]
+}
